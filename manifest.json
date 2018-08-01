@@ -20,7 +20,7 @@
         {
             "src": "Images/03e64903-6995-9f74-146f-13fc0f76b755.webPlatform.png",
             "sizes": "44x44",
-            "type": "image/png"
+            "type": "Image/png"
         },
         {
             "src": "Images/b67e1421-a0ac-944a-53e4-46ca40ddc7c9.webPlatform.png",
@@ -38,7 +38,7 @@
             "type": "image/png"
         },
         {
-            "src": "/images/32674dee-61e7-ed03-0775-07e6363cdfd1.webPlatform.png",
+            "src": "/Images/32674dee-61e7-ed03-0775-07e6363cdfd1.webPlatform.png",
             "sizes": "150x150",
             "type": "image/png"
         },
